@@ -9,7 +9,7 @@
 title: Atallah Blog
 email: leandroatallah@gmail.com
 description: "Aprendendo Jekyll."
-baseurl: "a"
+baseurl: ""
 url: "atallah-blog"
 twitter_username: leandroatallah
 github_username:  latallah
