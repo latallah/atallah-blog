@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Atallah Blog
+email: leandroatallah@gmail.com
+description: "Aprendendo Jekyll."
+baseurl: "/blog"
+url: "http://atallah.com.br"
+twitter_username: leandroatallah
+github_username:  latallah
+
+# Build settings
+markdown: kramdown
+# permalink: /:categories/:year/:month/:day/:title
+# permalink: /:year/:month/:day/:title
+permalink: /:title
