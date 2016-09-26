@@ -12,7 +12,7 @@ description: "Aprendendo Jekyll."
 baseurl: "/atallah-blog"
 url: ""
 twitter_username: leandroatallah
-github_username:  latallah
+github_username:  leandroatallah
 
 # Build settings
 markdown: kramdown
